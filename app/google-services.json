@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "607093910821",
+    "project_id": "mynewnotebook-278ba",
+    "storage_bucket": "mynewnotebook-278ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607093910821:android:045a58192bba6e24ca7ecc",
+        "android_client_info": {
+          "package_name": "com.appers.mynewnotebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607093910821-s5jk4i6u0aiuie8qmrdrurp5hk5pi54r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appers.mynewnotebook",
+            "certificate_hash": "f38ba2189bfcdd94ec89e994418568d825d422f8"
+          }
+        },
+        {
+          "client_id": "607093910821-iejlesk6ubap50qbnpmv9m8epqan8ssl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfpprC3leiKe_hAxcsb5UFyP3-Kcbc7bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607093910821-iejlesk6ubap50qbnpmv9m8epqan8ssl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
